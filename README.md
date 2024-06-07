@@ -1,4 +1,5 @@
 # Proyecto-Programacion2-Juan-Jose-Aguilar-
+Proyecto realizado por: Juan José Aguilar Lima y Roy Brayan Alarcon Chambi
 Proyecto Programación2: Almacen de productos 
 
 Usuarios y contraseñas:
