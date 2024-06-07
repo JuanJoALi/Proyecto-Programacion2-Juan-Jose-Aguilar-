@@ -1,4 +1,4 @@
-# Proyecto-Programacion2-Juan-Jose-Aguilar-
+# Proyecto-Programacion2-Juan-Jose-Aguilar-y-Roy-Brayan-Alarcon-Chambi
 Proyecto realizado por: Juan José Aguilar Lima y Roy Brayan Alarcon Chambi
 Proyecto Programación2: Almacen de productos 
 
